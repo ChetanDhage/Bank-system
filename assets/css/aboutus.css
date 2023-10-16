@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans",cambria;
+    box-sizing: border-box;
+    background: #D2E0FB;
+}
+
+
+p{
+    background-color: #EAD7BB;
+}
+body {
+    max-width: 1000px; /* Set a maximum width for the content */
+    margin: 0 auto; /* Center the content */
+    padding: 20px; /* Add some space around the content */
+    font-size: 16px; /* Set a base font size */
+    line-height: 1.6; /* Set line height for readability */
+}
+img {
+    max-width: 100%; /* Make images scale with the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove default inline behavior */
+    margin: 0 auto; /* Center the image */
+}
+
+
+/* footer css starts here */
+/* footer */
+.fa:hover {
+  color: red;
+   transform:scale(1.3);
+
+
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa {
+  padding: 15px;
+  font-size: 12px;
+  width: 40px;
+   height: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.footer{
+  background-color: #8EACCD;
+    padding: 5px;
+
+}
+/* footer css ends here  */
